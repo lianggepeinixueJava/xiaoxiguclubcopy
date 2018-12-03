@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="debug">
+    <loggers>
+        <logger name="com.lianggege.xiaoxigu.dao" level="debug"/>
+        <root level="debug">
+            <appender-ref ref="Console"/>
+            <appender-ref ref="RollingFile"/>
+        </root>
+    </loggers>
+</configuration>
