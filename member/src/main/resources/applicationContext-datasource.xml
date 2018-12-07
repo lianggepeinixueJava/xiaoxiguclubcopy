@@ -21,8 +21,8 @@
         <property name="url"
                   value="jdbc:mysql://123.206.56.225:3306/xiaoxiguclubcopy?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8"/>
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-        <property name="username" value="root"/>
-        <property name="password" value="woquXiaona521"/>
+        <property name="username" value="jiayueqiao"/>
+        <property name="password" value="12345678!a"/>
         <property name="filters" value="stat"/>
         <property name="maxActive" value="20"/>
         <property name="initialSize" value="1"/>
